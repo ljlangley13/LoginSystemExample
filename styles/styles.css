@@ -1,0 +1,60 @@
+body 
+	{	
+	background: url(images/head.jpg), url(images/background.jpg);
+	background-repeat: repeat-x, no-repeat;	
+	height: 200px;
+	}
+h1
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h2
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h3
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h4
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+p
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+table
+	{
+	border: 4px solid greeen;
+	align:center;
+	}
+.pbad
+	{
+	color:#FF0000;
+	}
+.footer
+	{
+	color:#000000;
+   text-align: center;;
+	}
+.pgood
+	{
+	color:#347C17;
+	}
+.WebsiteTitle
+	{
+	color:#FFFFFF;
+	}
+.MainTable
+	{
+	border: 4px solid greeen;
+	align:center;
+	}
+
+]

@@ -1,0 +1,52 @@
+body 
+	{	
+	background: url('images/background.jpg');
+	background-repeat:no-repeat;	
+	background: url(images/head.jpg);
+	background-repeat:repeat-x;
+	height: 200px;
+	}
+h1
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h2
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h3
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+h4
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+p
+	{
+	color:#306EFF;
+	text-align:center;
+	}
+.pbad
+	{
+	color:#FF0000;
+	}
+.footer
+	{
+	color:#000000;
+   text-align: center;;
+	}
+.pgood
+	{
+	color:#347C17;
+	}
+.WebsiteTitle
+	{
+	color:#FFFFFF;
+	}
+
+]
